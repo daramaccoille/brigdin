@@ -1,0 +1,14 @@
+.is-invalid {
+    border-color: red;
+  }
+  .btn-edit {
+    background-color: var(--secondary);
+    margin-right: 8px;
+  }
+  .btn-delete {
+    background-color: var(--accent);
+  }
+  .table-responsive {
+    overflow-x: auto;
+  }
+  
